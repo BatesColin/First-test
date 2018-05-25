@@ -17,6 +17,8 @@ body {
 }
 .well {
   background-color: #f9fcff;
+  border-width: medium;
+  border-style: ridge;
 }
 .jumbotron {
   background-color: #d2e7f4;

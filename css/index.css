@@ -12,3 +12,15 @@ h3 {
 h2 {
   text-align: center;
 }
+body {
+  background-color: #f9fcff;
+}
+.well {
+  background-color: #dbdee0;
+}
+.jumbotron {
+  background-color: #d2e7f4;
+}
+.well header {
+  background-color: lightcyan;
+}

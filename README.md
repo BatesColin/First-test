@@ -1,24 +1,22 @@
-# Epicodus Day 4 Fake Wikipedia Site Project
+# Epicodus Day 5 Personal Portfolio
 
 ## Created
 
-05/24/2018
+05/25/2018
 
 ## About
 
-Create a website that copy's a website to practice bootstrap
+Making an online portfolio to highlight coding skills
 
 ## Technology Used
 
 HTML, CSS, Bootstrap
 
 ##installation
-Clone from https://github.com/Xamdes/fake-wikipedia.git
-or https://github.com/BatesColin/fake-wikipedia.git
+Clone from https://github.com/BatesColin/First-test
 
 ## Credits
 Colin Bates
-Steven Colburn
 
 ## License
 

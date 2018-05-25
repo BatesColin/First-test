@@ -13,14 +13,14 @@ h2 {
   text-align: center;
 }
 body {
-  background-color: #f9fcff;
+  background-color: #dbdee0;
 }
 .well {
-  background-color: #dbdee0;
+  background-color: #f9fcff;
 }
 .jumbotron {
   background-color: #d2e7f4;
 }
-.well header {
-  background-color: lightcyan;
+.header-border {
+  background-color: #d2e7f4;
 }

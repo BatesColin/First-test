@@ -6,7 +6,7 @@
 
 ## About
 
-Making an online portfolio to highlight coding skills
+Making our online portfolio to highlight coding skills, and ideally get a job down the road.
 
 ## Technology Used
 
